@@ -53,4 +53,4 @@ export const CounterEffect = () => {
 //posiblemente es mas conveniente user useLayoutEffect
 //en lugar de useEffect porque el espera a que se construya
 //el elemento y es sincrono
-//es un consejo obcional 
+//es un consejo obcional
